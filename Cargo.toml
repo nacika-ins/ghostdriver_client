@@ -1,0 +1,10 @@
+[package]
+name = "ghostdriver_client"
+version = "0.1.0"
+authors = ["nacika <nacika.inscatolare@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+cookie = "*"
+rustc-serialize = "*"
+
